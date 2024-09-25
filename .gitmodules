@@ -1,0 +1,3 @@
+[submodule "learning-go"]
+	path = learning-go
+	url = https://github.com/addhe/learning-go.git
